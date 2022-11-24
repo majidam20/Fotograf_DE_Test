@@ -33,4 +33,4 @@ Secondly, creating images by command docker-compose in the command prompt window
 
 Note1: The schema of the people and places CSVs was located in the corresponding SQL file name.
 
-Note2: environment values of MySQL in docker-compose.yml should be modified by your database configuration.
+Note2: Environment values of MySQL in docker-compose.yml should be modified by your database configuration.

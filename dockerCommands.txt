@@ -1,0 +1,88 @@
+docker-compose --version
+
+docker ps -a
+
+docker logs NAME in ps
+
+docker rmi -f  116f74da0eb1
+
+
+docker-compose down --remove-orphans
+
+###########
+docker build -t .
+$$$$$$$$$$$$$
+docker-compose build example-python
+docker-compose up -d
+docker-compose run example-python
+
+docker compose run --no-TTY database mysql --host=localhost --user=root --password=1333
+
+docker run imgID
+docker ps -a
+docker commit CONTAINERID
+docker run -it NewGeneratedId bash
+python example.py
+§§§§§§§§§§§§
+
+docker pull nginx:latest
+docker pull hello-world
+docker cp ID/source ./Destination
+#############################
+ports:
+      - "8081:80"
+
+docker-compose build example-python
+docker-compose up -d  
+docker-compose run example-python
+python example.py
+
+
+docker ps -a
+docker commit CONTAINERID
+docker run -it new id bash
+pip install pandas
+pip install PyMySQL
+python example.py
+
+
+mysql -h 127.0.0.1 -P 3306 -u root -p codetest
+
+apk update
+apk update python
+
+- MYSQL_RANDOM_ROOT_PASSWORD=yes
+docker-compose run example-python
+docker compose up database
+
+
+docker network list
+docker network inspect
+
+docker-compose down -v - Which stops and removes all the running services and volumes.
+docker system prune --volumes - Which completely removes volumes and cache.
+docker-compose up -d
+
+
+%%%%%%%%%%%%%%%%%%%%%%%
+docker compose run database mysql --host=localhost --user=root --password=1333
+codetest
+
+docker-compose build example-python
+docker run -e MYSQL_ROOT_PASSWORD=1333 2a04bf34fdf0 ,,, 3a532dfb93e4    example-python
+docker run sqlimage
+docker-compose up -d  
+docker-compose run example-python
+python example.py
+
+docker network ls
+docker network create example
+docker run -d --net example --name container1 <image>
+docker run -d --net example --name container2 <image>
+
+
+docker-compose run --no-TTY database mysql --host=database --user=codetest --
+password=NO codetest < places.sql
+
+
+mysql -h 127.0.0.1 -P 3306 -u root -p codetest

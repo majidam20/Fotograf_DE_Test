@@ -1,0 +1,11 @@
+fotograf:
+  target: dev
+  outputs:
+    dev:
+      type: mysql
+      server: localhost
+      port: 3306
+      schema: dbt_maminian
+      username: root
+      password: 1333
+      ssl_disabled: True

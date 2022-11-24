@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fotograf-369614",
+  "private_key_id": "75dc5b03e2aa9c3c0f5573164bc05e3d6cd16a6f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCrCzpFWv7pYrqe\njONkVhp5FU8cN0xnBEvLKd8OQTAN0z6ao9x0dNE1X/hh5mUJOMxCMCMNBwIP1LNR\nX4HTsDsELgkHwAplLY/IhVuoqzT78P01PPppmh+iEL1F4f7aHP0QG85mE1FPFShM\nmmVZG2kvGDFW7On35ShPP4FYs3DRQOrcONvMLPY2lFR64kx57cEs/c/GEAH3xuDr\negqVxrzlfvItmqv1ttPTiNCIiHrxIWXjTUiWwcwRiMiTQu68BKz57346ca30Vl2T\nkTV5kbPEfDoxhD4njhzC7YcG8sirffBHVUaB9FDuhuwh8/KP6YZuFNAfWH31s0np\nmAxVBviBAgMBAAECggEAAmqwMhatD2Mju+XFuL82tItGiOGHJNV8tKwsyKjHIwrf\nEZRLIyIbaqOmgMueldjFmhHQDPkSYGLi/b1ZukH9M3vrCL7/5poUNAMeXm282+p1\nyXDJIQDafZG6+ufMkAxkzvt1mR+gwHtODHcKA45NmCrBV7cVPzlvrl75VuWCLJK2\nVLwQgVXfsqCo98FlNGQopjPAP3UFGFv5+KXJzSY5+2t40bloMjNeDcy1kLM5y47Z\nsVMFXCBkjPX3CiHt0fVxDJGXl4BwfWnoVspYuaSS/Y95hxBMMDP2mX44mVFZojPf\nCnHLMLIlMOKdBjoAyX3zNDYjYAuksLNKqJyLDw9soQKBgQDVNKGqRGdz52YsdeuU\n8YdfzsKl8kALAQJhiZSwS8OV+DuDBTjRWRCqvzypNEZ8O5JoU5vY9gRnVJ7eXjW1\nXTnx5s/rjqcNUKDWDvm3BdJGIm+WIQbvFqQrZ5BYhBejl5T8h23XpNPqrAnNx9Qq\n/PDZnbjn3vbwy98fYySktMEK/QKBgQDNYCe28u6xKyRQ0f6+x5u5vB28BB5TePWd\nnsh6GVkYGIqxutelo/UoNCfWNrwNa9ehLROqeP+OYqVabBNRusewA3bjpbNoSF48\nrmyAHSI5nyf8YdEBhPv3ltodf415Pp8SEpxWZm7x3M5sFLnDSlXs6FD2k5b7GT8O\nWnAtrfZk1QKBgA5UlE0yfdWfhxGT93qyZUv+RL0MtFtI/RT7P2A+J25MGgvrbO89\nUk53vicNWXN+OZADlqUVnCQp3ufJY0jGdF+bCPynQPk3IyhgJ06y+Hg4VlG79JBb\ncDtuoZghgMlBJgV3QN3OuWO7nokTVmJxT+sAm+4R4X075spgSpU7hQItAoGBAJ31\nhNY7hsaRbf8TZKGLmQSD4ULI0CJXeGHgzETM1i+oQJRuJoppzpc7diBWPND9zv1S\nVDvbkIMM8CzZzwofZJLGN1zkB1b/witd5Gms/rPe67w756sJg1pslhn2DvPf7CzU\nT5ZMdqxjrgiG8FF6DRiHni3oWkmKo2sAuCMKF+Z5AoGATiDjXkDYyhCQAZklgwsG\nz1tALQwldeuK86S1r7y4fej4CEYB3MC1434DZXvSJHi1uWBobcLs7qmXL3aOEI8F\ncXw09oVxGHhHqaR45QPM2ioTzOKuz4J14WrJNy3PdMA84A3wdAuoRkCTBrcW4emQ\nTQQfP8WBuafm7k7c+oUhICg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dbtfotograf@fotograf-369614.iam.gserviceaccount.com",
+  "client_id": "107357879773461214746",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dbtfotograf%40fotograf-369614.iam.gserviceaccount.com"
+}
